@@ -1,2 +1,10 @@
 title: Team UHp!
 description: Home page for Team UHp!
+google_analytics:
+show_downloads: false
+theme: jekyll-theme-cayman
+github:
+  is_project_page: true
+  repository_url: https://github.com/team-uhp/team-uhp.github.io
+gems:
+  - jekyll-mentions
