@@ -8,8 +8,6 @@
 - User Guide
 - Development History
 - Team
-- 
-
 
 ## Overview
 
@@ -22,9 +20,6 @@ This section provides a walkthrough of the TeamUHp! user interface and its capab
 **Landing Page**
 The landing page is presented to users when they visit the top-level URL to the site.
 
-
-
-
 ## Development History
 The development process for TeamUHp conforms to Issue Driven Project Management (IDPM) practices. In this model: 
 - Development consists of a sequence of Milestones.
@@ -35,6 +30,11 @@ The development process for TeamUHp conforms to Issue Driven Project Management 
 - When a task is complete, its corresponding issue is closed and its corresponding git branch is merged into master.
 - The state (todo, in progress, complete) of each task for a milestone is managed using a GitHub Project Board.
 - The following sections document the development history of BowFolios.
+
+**Milestone 1: Mockup development**
+The goal of Milestone 1 was to create a set of HTML pages providing a mockup of the pages in the system:
+
+<img src="m1.png">
 
 ## Team
 TeamUHp! is designed, implemented, and maintained by Jayden Francoise, Matthew Matsumoto, Raymond Acker, Joan Zara, and Jun Xiang (Juno) Zeng.
