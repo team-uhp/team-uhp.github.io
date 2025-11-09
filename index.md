@@ -4,17 +4,15 @@
 # Team UHp!
 
 ## Table of contents
-- Overview
-- User Guide
-- Development History
-- Team
+- [Overview](#overview)
+- [User Guide](#user-guide)
+- [Development History](#development-history)
+- [Team](#team)
 
 ## Overview
-
 TeamUHP! is a platform for students to connect across areas of study by enabling them to upload project postings and recruit collaborators. Whether it’s a class assignment or a passion project, students can find teammates with complementary skills and allow each contributor to play a meaningful role that aligns with their field of study. This medium of collaboration helps students to gain practical experience, build teamwork skills, and add completed projects to their resumes.
 
 ## User Guide
-
 This section provides a walkthrough of the TeamUHp! user interface and its capabilities.
 
 **Landing Page**
