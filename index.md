@@ -40,35 +40,35 @@ TeamUHp! is designed, implemented, and maintained by Jayden Francoise, Matthew M
 <div class="team">
 
   <div class="member">
-    <img src="images\jaydenfrn.jpg" alt="Jayden Francoise">
+    <img src="images\members\jaydenfrn.jpg" alt="Jayden Francoise">
     <h3>Jayden Francoise</h3>
     <a href="https://jaydenfrn.github.io/">jaydenfrn.github.io</a>
     <p>Computer Science Student at University of Hawaii at Manoa</p>
   </div>
 
   <div class="member">
-    <img src="images\matthewmatsumoto.jpg" alt="Matthew Matsumoto">
+    <img src="images\members\matthewmatsumoto.jpg" alt="Matthew Matsumoto">
     <h3>Matthew Matsumoto</h3>
     <a href="https://matthewmatsumoto.github.io/">matthewmatsumoto.github.io</a>
     <p>Computer Science Student at University of Hawaii at Manoa</p>
   </div>
   
   <div class="member">
-    <img src="images\ackerrs.jpg" alt="Raymond Acker">
+    <img src="images\members\ackerrs.jpg" alt="Raymond Acker">
     <h3>Raymond Acker</h3>
     <a href="https://ackerrs.github.io/">ackerrs.github.io</a>
     <p>Computer Science Student at University of Hawaii at Manoa</p>
   </div>
 
   <div class="member">
-    <img src="images\jn1za.jpg" alt="Joan Zara">
+    <img src="images\members\jn1za.jpg" alt="Joan Zara">
     <h3>Joan Zara</h3>
     <a href="https://jn1za.github.io/">jn1za.github.io</a>
     <p>Computer Science Student at University of Hawaii at Manoa</p>
   </div>
 
   <div class="member">
-    <img src="images\junoxzeng.jpg" alt="Jun Xiang (Juno) Zeng">
+    <img src="images\members\junoxzeng.jpg" alt="Jun Xiang (Juno) Zeng">
     <h3>Jun Xiang (Juno) Zeng</h3>
     <a href="https://junoxzeng.github.io/">junoxzeng.github.io</a>
     <p>Computer Science Student at University of Hawaii at Manoa</p>
