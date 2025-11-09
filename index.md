@@ -37,7 +37,7 @@ The development process for TeamUHp conforms to Issue Driven Project Management 
 - The following sections document the development history of BowFolios.
 
 ## Team
-TeamUHp! is designed, implemented, and maintained by name1, name2
+TeamUHp! is designed, implemented, and maintained by Jayden Francoise, Matthew Matsumoto, Raymond Acker, Joan Zara, and Jun Xiang (Juno) Zeng.
 
 <div class="team">
 
