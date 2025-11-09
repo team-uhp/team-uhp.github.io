@@ -20,13 +20,13 @@ The landing page is presented to users when they visit the top-level URL to the 
 
 **List Projects Page** <br>
 <!-- Verify with team if this is specific to owners' projects -->
-The projects list page lists all projects the session user has uploaded. Each listing briefly displays their due dates, short descriptions, and skills being recruited for.  
+The projects list page lists all projects the session user has uploaded. Each listing briefly displays their due dates, short descriptions, and skills being recruited for:  
 
 <img class="padded" src="images\pages\owner-project-list-page.png">
 
 **Project Page** <br>
 Each individual project page displays the project's details. This includes the project's due date, full description, team members, member openings, and skills being searched by tags. 
-When logged in as the project owner, the subsequent link "Recruit for Opening" is visible.
+When logged in as the project owner, the subsequent link "Recruit for Opening" is visible:
 
 <img class="padded" src="images\pages\owner-project-page.png">
 
@@ -41,7 +41,7 @@ End users looking for projects will view a project page, then click on a specifi
 For project owners, 
 
 **Add Opening Page** <br>
-The add opening page is used for project posters to open positions for members they seek to recruit. They can specify the title for the position, add a description for project tasks, and schedule the dates for which the project is open to contributors.
+The add opening page is used for project posters to open positions for members they seek to recruit. They can specify the title for the position, add a description for project tasks, and schedule the dates for which the project is open to contributors:
 
 <img class="padded" src="images\pages\owner-add-opening-page.png">
 
