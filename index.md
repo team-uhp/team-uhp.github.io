@@ -8,6 +8,8 @@
 - [Development History](#development-history)
 - [Team](#team)
 
+<div class="content">
+
 ## Overview
 TeamUHP! is a platform for students to connect across areas of study by enabling them to upload project postings and recruit collaborators. Whether it’s a class assignment or a passion project, students can find teammates with complementary skills and allow each contributor to play a meaningful role that aligns with their field of study. This medium of collaboration helps students to gain practical experience, build teamwork skills, and add completed projects to their resumes.
 
@@ -18,6 +20,7 @@ This section provides a walkthrough of the TeamUHp! user interface and its capab
 The landing page is presented to users when they visit the top-level URL to the site.
 
 **List Projects Page** <br>
+<!-- Verify with team if this is specific to owners' projects -->
 The projects list page lists all projects the session user has uploaded. Each listing briefly displays their due dates, short descriptions, and skills being recruited for.  
 
 <img src="images\pages\owner-project-list-page.png">
@@ -30,8 +33,7 @@ When logged in as the project owner, the subsequent link "Recruit for Opening" i
 
 
 **Add Projects Page**
-
-
+<!-- TO DO -->
 
 **Position Page** <br>
 End users looking for projects will view a project page, then click on a specific position. The specified posiiton is detailed on its own page, and included is a link to apply for the position:
@@ -66,6 +68,8 @@ Milestone 1 was managed using [TeamUHp GitHub Project Board M1:](https://github.
 <img src="images/milestones/m1.png" alt="Milestone 1">
 <p style="text-align: center; font-style: italic;">Current milestone in progress.</p>
 
+
+<div class="content">
 
 ## Team
 TeamUHp! is designed, implemented, and maintained by Jayden Francoise, Matthew Matsumoto, Raymond Acker, Joan Zara, and Jun Xiang (Juno) Zeng.

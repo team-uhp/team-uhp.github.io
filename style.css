@@ -53,3 +53,10 @@
   margin-top: 8px;
   line-height: 1.4;
 }
+
+.content img {
+  max-width: 90%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
