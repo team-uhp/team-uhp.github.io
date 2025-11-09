@@ -15,7 +15,7 @@ TeamUHP! is a platform for students to connect across areas of study by enabling
 ## User Guide
 This section provides a walkthrough of the TeamUHp! user interface and its capabilities.
 
-**Landing Page**
+**Landing Page** <br>
 The landing page is presented to users when they visit the top-level URL to the site.
 
 ## Development History
@@ -29,7 +29,7 @@ The development process for TeamUHp conforms to Issue Driven Project Management 
 - The state (todo, in progress, complete) of each task for a milestone is managed using a GitHub Project Board.
 - The following sections document the development history of BowFolios.
 
-**Milestone 1: Mockup development**
+**Milestone 1: Mockup development** <br>
 The goal of Milestone 1 was to create a set of HTML pages providing a mockup of the pages in the system:
 
 <img src="m1.png">
