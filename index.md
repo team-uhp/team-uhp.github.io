@@ -1,6 +1,5 @@
 <link rel="stylesheet" href="./style.css">
 
-
 # Team UHp!
 
 ## Table of contents
@@ -32,7 +31,9 @@ The development process for TeamUHp conforms to Issue Driven Project Management 
 **Milestone 1: Mockup development** <br>
 The goal of Milestone 1 was to create a set of HTML pages providing a mockup of the pages in the system:
 
-<img src="m1.png">
+<img src="images/milestones/m1.png" alt="Milestone 1">
+<p style="text-align: center; font-style: italic;">Current milestone in progress.</p>
+
 
 ## Team
 TeamUHp! is designed, implemented, and maintained by Jayden Francoise, Matthew Matsumoto, Raymond Acker, Joan Zara, and Jun Xiang (Juno) Zeng.
