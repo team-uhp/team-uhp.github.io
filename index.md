@@ -17,6 +17,12 @@ This section provides a walkthrough of the TeamUHp! user interface and its capab
 **Landing Page** <br>
 The landing page is presented to users when they visit the top-level URL to the site.
 
+**Add Opening Page** <br>
+<img src="images\pages\add-opening-page.png">
+
+**List Projects Page** <br>
+<img src="images\pages\project-list-page.png">
+
 ## Development History
 The development process for TeamUHp conforms to Issue Driven Project Management (IDPM) practices. In this model: 
 - Development consists of a sequence of Milestones.
