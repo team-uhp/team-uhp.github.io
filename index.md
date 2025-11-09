@@ -18,6 +18,7 @@ This section provides a walkthrough of the TeamUHp! user interface and its capab
 
 **Landing Page** <br>
 The landing page is presented to users when they visit the top-level URL to the site.
+<!-- TO DO -->
 
 **List Projects Page** <br>
 <!-- Verify with team if this is specific to owners' projects -->
