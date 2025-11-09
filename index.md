@@ -29,7 +29,9 @@ The development process for TeamUHp conforms to Issue Driven Project Management 
 - The following sections document the development history of BowFolios.
 
 **Milestone 1: Mockup development** <br>
-The goal of Milestone 1 was to create a set of HTML pages providing a mockup of the pages in the system:
+The goal of Milestone 1 was to create a set of HTML pages providing a mockup of the pages in the system.
+
+Milestone 1 was managed using [TeamUHp GitHub Project Board M1:](https://github.com/orgs/team-uhp/projects/1)
 
 <img src="images/milestones/m1.png" alt="Milestone 1">
 <p style="text-align: center; font-style: italic;">Current milestone in progress.</p>
