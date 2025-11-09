@@ -38,8 +38,6 @@ End users looking for projects will view a project page, then click on a specifi
 
 <img class="padded" src="images\pages\viewer-position-page.png">
 
-For project owners, 
-
 **Add Opening Page** <br>
 The add opening page is used for project posters to open positions for members they seek to recruit. They can specify the title for the position, add a description for project tasks, and schedule the dates for which the project is open to contributors:
 
