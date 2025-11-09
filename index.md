@@ -69,7 +69,7 @@ Milestone 1 was managed using [TeamUHp GitHub Project Board M1:](https://github.
 <p style="text-align: center; font-style: italic;">Current milestone in progress.</p>
 
 
-<div class="content">
+</div class="content">
 
 ## Team
 TeamUHp! is designed, implemented, and maintained by Jayden Francoise, Matthew Matsumoto, Raymond Acker, Joan Zara, and Jun Xiang (Juno) Zeng.
