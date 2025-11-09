@@ -54,7 +54,7 @@
   line-height: 1.4;
 }
 
-.content img {
+img.padded {
   max-width: 90%;
   height: auto;
   display: block;
