@@ -17,11 +17,35 @@ This section provides a walkthrough of the TeamUHp! user interface and its capab
 **Landing Page** <br>
 The landing page is presented to users when they visit the top-level URL to the site.
 
-**Add Opening Page** <br>
-<img src="images\pages\add-opening-page.png">
-
 **List Projects Page** <br>
-<img src="images\pages\project-list-page.png">
+The projects list page lists all projects the session user has uploaded. Each listing briefly displays their due dates, short descriptions, and skills being recruited for.  
+
+<img src="images\pages\owner-project-list-page.png">
+
+**Project Page** <br>
+Each individual project page displays the project's details. This includes the project's due date, full description, team members, member openings, and skills being searched by tags. 
+When logged in as the project owner, the subsequent link "Recruit for Opening" is visible.
+
+<img src="images\pages\owner-project-page.png">
+
+
+**Add Projects Page**
+
+
+
+**Position Page** <br>
+End users looking for projects will view a project page, then click on a specific position. The specified posiiton is detailed on its own page, and included is a link to apply for the position:
+
+<img src="images\pages\viewer-position-page.png">
+
+For project owners, 
+
+**Add Opening Page** <br>
+The add opening page is used for project posters to open positions for members they seek to recruit. They can specify the title for the position, add a description for project tasks, and schedule the dates for which the project is open to contributors.
+
+<img src="images\pages\owner-add-opening-page.png">
+
+
 
 ## Development History
 The development process for TeamUHp conforms to Issue Driven Project Management (IDPM) practices. In this model: 
