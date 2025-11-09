@@ -43,34 +43,34 @@ TeamUHp! is designed, implemented, and maintained by Jayden Francoise, Matthew M
     <img src="images\jaydenfrn.jpg" alt="Jayden Francoise">
     <h3>Jayden Francoise</h3>
     <a href="https://jaydenfrn.github.io/">jaydenfrn.github.io</a>
-    <p>I am studying for a B.S. in Computer Science in the College of Natural Sciences at the University of Hawaii. I expect to graduate in Spring, 2027.</p>
+    <p>Computer Science Student at University of Hawaii at Manoa</p>
   </div>
 
   <div class="member">
     <img src="images\matthewmatsumoto.jpg" alt="Matthew Matsumoto">
     <h3>Matthew Matsumoto</h3>
     <a href="https://matthewmatsumoto.github.io/">matthewmatsumoto.github.io</a>
-    <p>I am studying for a B.S. in Computer Science with emphasis on security in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2027.</p>
+    <p>Computer Science Student at University of Hawaii at Manoa</p>
   </div>
   
   <div class="member">
     <img src="images\ackerrs.jpg" alt="Raymond Acker">
     <h3>Raymond Acker</h3>
     <a href="https://ackerrs.github.io/">ackerrs.github.io</a>
-    <p>I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.</p>
+    <p>Computer Science Student at University of Hawaii at Manoa</p>
   </div>
 
   <div class="member">
     <img src="images\jn1za.jpg" alt="Joan Zara">
     <h3>Joan Zara</h3>
     <a href="https://jn1za.github.io/">jn1za.github.io</a>
-    <p>I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2027.</p>
+    <p>Computer Science Student at University of Hawaii at Manoa</p>
   </div>
 
   <div class="member">
     <img src="images\junoxzeng.jpg" alt="Jun Xiang (Juno) Zeng">
     <h3>Jun Xiang (Juno) Zeng</h3>
     <a href="https://junoxzeng.github.io/">junoxzeng.github.io</a>
-    <p>I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2027.</p>
+    <p>Computer Science Student at University of Hawaii at Manoa</p>
   </div>
 </div>

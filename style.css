@@ -8,7 +8,7 @@
 
 .member {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   width: 420px;
   background: #ffffff;
   border-radius: 12px;
@@ -23,32 +23,30 @@
 }
 
 .member img {
-  width: 40px;
-  height: 40px;
+  width: 75px;
+  height: 75px;
   border-radius: 50%;
   object-fit: cover;
-  flex-shrink: 0;
   margin-right: 16px;
+  flex-shrink: 0;
 }
 
 .member-info {
   display: flex;
   flex-direction: column;
-  align-items: flex-start;
 }
 
 .member-info h3 {
-  margin: 0;
+  margin: 0 0 4px 0;
   font-size: 1.1rem;
   color: #2c3e50;
 }
 
 .member-info a {
+  font-size: 0.9rem;
   color: #1e6bb8;
-  font-weight: 500;
   text-decoration: none;
-  margin: 4px 0;
-  size: 5px;
+  margin-bottom: 4px;
 }
 
 .member-info a:hover {
@@ -56,8 +54,8 @@
 }
 
 .member-info p {
-  font-size: 0.5rem;
+  font-size: 0.85rem;
   color: #555;
-  margin: 6px 0 0;
-  line-height: 1.4;
+  margin: 0;
+  line-height: 1.3;
 }
