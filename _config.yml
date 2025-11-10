@@ -2,7 +2,7 @@ title: Team UHp!
 description: Connecting University of Hawaii Students to collaborate on large scale projects.
 google_analytics:
 show_downloads: false
-theme: jekyll-theme-cayman
+theme: jekyll-theme-argon
 github:
   is_project_page: true
   repository_url: https://github.com/team-uhp/team-uhp.github.io
