@@ -33,6 +33,17 @@ When logged in as the project owner, the subsequent link "Recruit for Opening" i
 
 <img class="padded" src="images\pages\owner-project-page.png">
 
+**Sign In Page** <br>
+The project's sign in page customized with UH Manoa's colors which is what it will be mainly used for. Place holder right now for future functionality of recovering password.
+
+<img class="padded" src="images\pages\viewer-sign-in-page.png">
+
+**Sign Up Page** <br>
+The project's sign in page customized with UH Manoa's colors which is what it will be mainly used for.
+
+<img class="padded" src="images\pages\viewer-sign-up-page.png">
+
+
 **Add Projects Page**
 <!-- TO DO -->
 
