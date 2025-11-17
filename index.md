@@ -4,6 +4,7 @@
 
 ## Table of contents
 - [Overview](#overview)
+- [Deployment](#deployment)
 - [User Guide](#user-guide)
 - [Development History](#development-history)
 - [Team](#team)
@@ -13,6 +14,10 @@
 Many college students want to build real-world experience and strengthen their resumes through hands-on projects. However, the scope and complexity of meaningful and large-scale projects may exceed their current technical skills or confidence. Such a gap makes it difficult for students to initiate or complete projects that truly showcase their abilities.
 
 TeamUHP! is a platform for students to connect across areas of study by enabling them to upload project postings and recruit collaborators. Whether it’s a class assignment or a passion project, students can find teammates with complementary skills and allow each contributor to play a meaningful role that aligns with their field of study. This medium of collaboration helps students to gain practical experience, build teamwork skills, and add completed projects to their resumes.
+
+## Deployment
+
+The TeamUHp! web application is deployed through Vercel cloud platform and accessbile at [team-uhp.vercel.app](https://team-uhp.vercel.app/).
 
 ## User Guide
 This section provides a walkthrough of the TeamUHp! user interface and its capabilities.
