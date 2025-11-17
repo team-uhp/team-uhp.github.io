@@ -17,7 +17,7 @@ TeamUHP! is a platform for students to connect across areas of study by enabling
 
 ## Deployment
 
-The TeamUHp! web application is deployed through Vercel cloud platform and accessbile at [team-uhp.vercel.app](https://team-uhp.vercel.app/).
+The TeamUHp! web application is deployed through Vercel cloud platform and hosted at [team-uhp.vercel.app](https://team-uhp.vercel.app/).
 
 ## User Guide
 This section provides a walkthrough of the TeamUHp! user interface and its capabilities.
