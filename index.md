@@ -83,6 +83,15 @@ Milestone 1 was managed using [TeamUHp GitHub Project Board M1:](https://github.
 <img class="padded" src="images/milestones/m1.png" alt="Milestone 1">
 <p style="text-align: center; font-style: italic;">Current milestone in progress.</p>
 
+**Milestone 2: Mockup development** <br>
+The goal of Milestone 2 is to improve functionality and quality of the application, including functionality of mockups created in M1, and adding mockups to that supplement to existing pages.
+
+Milestone 1 was managed using [TeamUHp GitHub Project Board M2:](https://github.com/orgs/team-uhp/projects/3)
+
+<img class="padded" src="images/milestones/m2.png" alt="Milestone 2">
+<p style="text-align: center; font-style: italic;">Next milestone to follow.</p>
+
+
 ## Team
 [Team Contract](https://docs.google.com/document/d/1vcm45B1ehz_Joi1jSSsUXPrAqlw8uORYBjaiFehP7uw/edit?usp=sharing)<br>
 TeamUHp! is designed, implemented, and maintained by Jayden Francoise, Matthew Matsumoto, Raymond Acker, Joan Zara, and Jun Xiang (Juno) Zeng.
