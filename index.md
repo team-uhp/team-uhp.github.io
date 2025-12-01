@@ -29,11 +29,11 @@ The landing page is presented to users when they visit the website. Clicking any
 <img class="padded" src="images\pages\landing-page.png">
 
 **Sign In Page** <br>
-The sign in page allows users to sign in and provides links for creating a new account, requesting a link to reset forgotten password.
+The sign in page allows users to sign in and provides links for creating a new account or requesting a link to reset forgotten password.
 <img class="padded" src="images\pages\viewer-sign-in-page.png">
 
 **Forgot Password Page** <br>
-If a user has forgotten their password, they may reset it by inputting the email associated with their accuont, and receive an email from TeamUHp automation (team.uhp.automation@gmail.com) to reset the password.
+If a user has forgotten their password, they may reset it by inputting the email associated with their account, and receive an email from TeamUHp automation (team.uhp.automation@gmail.com) to reset the password.
 <img class="padded" src="images\pages\forgot-password-page.png">
 
 **Sign Up Page** <br>
