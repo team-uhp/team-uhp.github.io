@@ -98,6 +98,7 @@ Milestone 2 was managed using [TeamUHp GitHub Project Board M2:](https://github.
 
 **Milestone 3: Improved Functionality & Supplementary Features** <br>
 The goal of Milestone 3 is to 
+<!-- TO DO: Include milestone 3 description -->
 
 Milestone 3 was managed using [TeamUHp GitHub Project Board M2:](https://github.com/orgs/team-uhp/projects/3)
 
