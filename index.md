@@ -100,12 +100,11 @@ Milestone 2 was managed using [TeamUHp GitHub Project Board M2:](https://github.
 The goal of Milestone 3 is to complete near-final functionality of critical features, and complete implementation of supplementary features that were added in design. 
 <!-- TO DO: Include milestone 3 description -->
 
-Milestone 3 is managed using [TeamUHp GitHub Project Board M3:](https://github.com/orgs/team-uhp/projects/5)
+Milestone 3 is managed using [TeamUHp GitHub Project Board M3:](https://github.com/orgs/team-uhp/projects/6)
 
 <img class="padded" src="images/milestones/m3.png" alt="Milestone 3">
 <p style="text-align: center; font-style: italic;">Next milestone to follow.</p>
 <!-- TO DO: Add milestone 3 image -->
-
 
 
 ## Team
