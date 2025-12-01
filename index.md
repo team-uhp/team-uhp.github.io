@@ -6,6 +6,7 @@
 - [Overview](#overview)
 - [Deployment](#deployment)
 - [User Guide](#user-guide)
+- [Continuous Integration](#continuous-integration)
 - [Development History](#development-history)
 - [Team](#team)
 
@@ -60,6 +61,11 @@ End users looking for projects will view a project page, then click on a specifi
 **Add Opening Page** <br>
 The add opening page is used for project posters to open positions for members they seek to recruit. They can specify the title for the position, add a description for project tasks, select specific skills needed for the position, and schedule the dates for which the project is open to contributors:
 <img class="padded" src="images\pages\add-opening-page.png">
+
+## Continuous Integration
+![ci-badge](https://github.com/team-uhp/team-uhp/workflows/team-uhp/badge.svg)
+
+TeamUHp implements continuous integration using GitHub Actions, such that all commits into the main branch trigger a build of the system and the running of ESLint checks and all Playwright tests.
 
 ## Development History
 The development process for TeamUHp conforms to Issue Driven Project Management (IDPM) practices. In this model: 
