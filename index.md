@@ -63,10 +63,12 @@ The add opening page is used for project posters to open positions for members t
 <img class="padded" src="images\pages\add-opening-page.png">
 
 ## Continuous Integration
-![ci-badge](https://github.com/team-uhp/team-uhp/workflows/team-uhp/badge.svg)
+![ci-badge](https://github.com/team-uhp/team-uhp/workflows/ci-team-uhp/badge.svg)
+<!-- TO DO: Badge will work once main repository ci.yml is renamed to ci-team-uhp -->
 
-TeamUHp implements continuous integration using GitHub Actions, such that all commits into the main branch trigger a build of the system and the running of ESLint checks and all Playwright tests.
+TeamUHp implements continuous integration using GitHub Actions, such that all commits into the main branch trigger a build of the system and the running of ESLint checks and all Playwright tests. Results of all recent workflows are viewable at https://github.com/team-uhp/team-uhp/actions. 
 
+The workflow definition file is located at .github/workflows/ci.yml.
 ## Development History
 The development process for TeamUHp conforms to Issue Driven Project Management (IDPM) practices. In this model: 
 - Development consists of a sequence of Milestones.
