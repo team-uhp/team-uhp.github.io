@@ -86,15 +86,25 @@ The goal of Milestone 1 was to create a set of HTML pages providing a mockup of 
 Milestone 1 was managed using [TeamUHp GitHub Project Board M1:](https://github.com/orgs/team-uhp/projects/1)
 
 <img class="padded" src="images/milestones/m1.png" alt="Milestone 1">
-<p style="text-align: center; font-style: italic;">Current milestone in progress.</p>
 
-**Milestone 2: Mockup development** <br>
-The goal of Milestone 2 is to improve functionality and quality of the application, including functionality of mockups created in M1, and adding mockups to that supplement to existing pages.
+**Milestone 2: Improved Functionality & UI design** <br>
+The goal of Milestone 2 is to improve functionality and quality of the application, including functionality of mockups created in M1, adding mockups to that supplement to existing pages, and finalize the overall design of the landing, projects, openings, and form pages.
 
-Milestone 1 was managed using [TeamUHp GitHub Project Board M2:](https://github.com/orgs/team-uhp/projects/3)
+Milestone 2 was managed using [TeamUHp GitHub Project Board M2:](https://github.com/orgs/team-uhp/projects/3)
 
 <img class="padded" src="images/milestones/m2.png" alt="Milestone 2">
+<p style="text-align: center; font-style: italic;">Current milestone in progress.</p>
+<!-- TO DO: Update Milestone 2 to completed preview of Project @M2 by deadline  -->
+
+**Milestone 3: Improved Functionality & Supplementary Features** <br>
+The goal of Milestone 3 is to 
+
+Milestone 3 was managed using [TeamUHp GitHub Project Board M2:](https://github.com/orgs/team-uhp/projects/3)
+
+<img class="padded" src="images/milestones/m2.png" alt="Milestone 2">
+<p style="text-align: center; font-style: italic;">Current milestone in progress.</p>
 <p style="text-align: center; font-style: italic;">Next milestone to follow.</p>
+
 
 
 ## Team
