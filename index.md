@@ -6,6 +6,7 @@
 - [Overview](#overview)
 - [Deployment](#deployment)
 - [User Guide](#user-guide)
+- [Developer Guide](#developer-guide)
 - [Continuous Integration](#continuous-integration)
 - [Development History](#development-history)
 - [Team](#team)
@@ -61,6 +62,22 @@ End users looking for projects will view a project page, then click on a specifi
 **Add Opening Page** <br>
 The add opening page is used for project posters to open positions for members they seek to recruit. They can specify the title for the position, add a description for project tasks, select specific skills needed for the position, and schedule the dates for which the project is open to contributors:
 <img class="padded" src="images\pages\add-opening-page.png">
+
+## Developer Guide
+This section provides a walkthrough for installation, running, and modification of Team-UHp!
+
+**Installtion** <br>
+<!-- Explain how to download zip -->
+
+**Running the Program** <br>
+<!-- Run program -->
+
+**Editing the Program** <br>
+To edit the program, you must open the file with a code editor such as VSCode or Eclipse. There, you can edit the code as you please, through the various components, .tsx, and .css files. 
+
+**Setting up your email** <br>
+<!-- link to setting email -->
+
 
 ## Continuous Integration
 ![ci-badge](https://github.com/team-uhp/team-uhp/workflows/ci-team-uhp/badge.svg)
