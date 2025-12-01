@@ -66,8 +66,11 @@ The add opening page is used for project posters to open positions for members t
 ## Developer Guide
 This section provides a walkthrough for installation, running, and modification of Team-UHp!
 
-**Installtion** <br>
-<!-- Explain how to download zip -->
+**Accessing the Repository** <br>
+Visit the Team-UHp! github repositories page and select the "Team-UHp" repo and not the "Team-UHp.github.io" repo. 
+<img class="padded" src="repo.png">
+**Downloading the Program** <br>
+
 
 **Running the Program** <br>
 <!-- Run program -->
@@ -122,8 +125,6 @@ Milestone 3 was managed using [TeamUHp GitHub Project Board M2:](https://github.
 <img class="padded" src="images/milestones/m2.png" alt="Milestone 2">
 <p style="text-align: center; font-style: italic;">Current milestone in progress.</p>
 <p style="text-align: center; font-style: italic;">Next milestone to follow.</p>
-
-
 
 ## Team
 [Team Contract](https://docs.google.com/document/d/1vcm45B1ehz_Joi1jSSsUXPrAqlw8uORYBjaiFehP7uw/edit?usp=sharing)<br>
