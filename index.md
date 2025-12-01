@@ -23,47 +23,43 @@ The TeamUHp! web application is deployed through Vercel cloud platform and hoste
 This section provides a walkthrough of the TeamUHp! user interface and its capabilities.
 
 **Landing Page** <br>
-The landing page is presented to users when they visit the top-level URL to the site.
-<!-- TO DO -->
+<!-- TO DO: Update "Helpful Tools page" as described in this paragraph -->
+The landing page is presented to users when they visit the website. Clicking any of the internal page links without being signed in redirects the user to the Sign In page. Clicking the Helpful Tools link will take the user to a collection of external site links Team UHp thinks you might find helpful. Clicking the About Us or Resources links in the footer will redirect the user to those pages without requiring signing in.
 <img class="padded" src="images\pages\landing-page.png">
 
-**List Projects Page** <br>
-<!-- Verify with team if this is specific to owners' projects -->
-The projects list page lists all projects the session user has uploaded. Each listing briefly displays their due dates, short descriptions, and skills being recruited for:  
-
-<img class="padded" src="images\pages\owner-project-list-page.png">
-
-**Project Page** <br>
-Each individual project page displays the project's details. This includes the project's due date, full description, team members, member openings, and skills being searched by tags. 
-When logged in as the project owner, the subsequent link "Recruit for Opening" is visible:
-
-<img class="padded" src="images\pages\owner-project-page.png">
-
 **Sign In Page** <br>
-The project's sign in page customized with UH Manoa's colors. Place holder right now for future functionality of recovering password.
-
+The sign in page allows users to sign in and provides links for creating a new account, requesting a link to reset forgotten password.
 <img class="padded" src="images\pages\viewer-sign-in-page.png">
 
-**Sign Up Page** <br>
-The project's sign in page customized with UH Manoa's colors. May or may not use this page to input details related to things like username, interests, account details. To be decided
+**Forgot Password Page** <br>
+If a user has forgotten their password, they may reset it by inputting the email associated with their accuont, and receive an email from TeamUHp automation (team.uhp.automation@gmail.com) to reset the password.
+<img class="padded" src="images\pages\forgot-password-page.png">
 
+**Sign Up Page** <br>
+If a user has no yet created an account, they may sign up using UH email address. After filling in the necessary account information, an automated email is sent to verify the account. The user must check their email to follow the link to verification. All automation links are sent from the team's automation contact: team.uhp.automation@gmail.com.
 <img class="padded" src="images\pages\viewer-sign-up-page.png">
+
+**List Projects Page** <br>
+<!-- TO DO: Include filtering (by due date) capabilities mentioned in this paragraph -->
+The project list provides clickable summaries for all active projects. The list is sorted by number of skills that the user and each project have in common.
+<img class="padded" src="images\pages\project-list-page.png">
 
 
 **Add Projects Page**
-<!-- TO DO -->
+Clicking on the "Add Project" button from the Project List page, users can post a project by filling in Ttitle, description, and due date of the project. Line breaks in the description input are preserved when displaying the description on the project page. 
+<img class="padded" src="images\pages\add-project-page.png">
 
-**Position Page** <br>
-End users looking for projects will view a project page, then click on a specific position. The specified posiiton is detailed on its own page, and included is a link to apply for the position:
+**Project Page** <br>
+Each individual project page displays the project's details. The project page provides the project image/banner, title, description, project members, openings on the project, and the skills sought across all openings. Clicking on openings will take users to the opening page. If no image is provided during the Project's Creation, a default banner is displayed.<!-- "Default Banner" subject to change after photo sharing solution --> When logged in as a project's admin, the subsequent button "Recruit for Opening" is visible:
+<img class="padded" src="images\pages\owner-project-page.png">
 
-<img class="padded" src="images\pages\viewer-position-page.png">
+**Opening Page** <br>
+End users looking for projects will view a project page, then click on a specific position opening. The specified posiiton is detailed on its own page and provides the title, description, and skills sought of the project opening. Users can click the link to apply for the position.
+<img class="padded" src="images\pages\opening-page.png">
 
 **Add Opening Page** <br>
-The add opening page is used for project posters to open positions for members they seek to recruit. They can specify the title for the position, add a description for project tasks, and schedule the dates for which the project is open to contributors:
-
-<img class="padded" src="images\pages\owner-add-opening-page.png">
-
-
+The add opening page is used for project posters to open positions for members they seek to recruit. They can specify the title for the position, add a description for project tasks, select specific skills needed for the position, and schedule the dates for which the project is open to contributors:
+<img class="padded" src="images\pages\add-opening-page.png">
 
 ## Development History
 The development process for TeamUHp conforms to Issue Driven Project Management (IDPM) practices. In this model: 
