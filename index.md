@@ -63,6 +63,41 @@ End users looking for projects will view a project page, then click on a specifi
 The add opening page is used for project posters to open positions for members they seek to recruit. They can specify the title for the position, add a description for project tasks, select specific skills needed for the position, and schedule the dates for which the project is open to contributors:
 <img class="padded" src="images\pages\add-opening-page.png">
 
+## Developer Guide ## <br>
+First, install a code editor
+
+Second, go to the Team-UHp page, and select the "use this template" button to create a repository with Team-UHp as a template.
+
+Third, upon opening your new program, cd into the Team-UHp/app directory, and install libraries by typing into the terminal:
+
+<code>$ npm install</code>
+
+Fourth, run the system with the command:
+
+<code>npx prisma migrate reset</code>
+
+If successful, you should see the application appear at http://localhost.3000
+
+**Database Editing** <br>
+
+To launch the prisma database editor on your web browser, run the command:
+
+<code>npx prisma studio</code>
+
+For your .env file:
+
+make sure to comment vercel directUrl 
+
+<code>
+datasource db {
+  provider = "postgresql"
+  // for local development
+  url       = env("DATABASE_URL")
+  // for Vercel, uncomment
+  // directUrl = env("POSTGRES_URL")  <--- Comment this to run locally at localhost:3000 
+}
+</code>
+
 ## Continuous Integration
 ![ci-badge](https://github.com/team-uhp/team-uhp/workflows/ci-team-uhp/badge.svg)
 <!-- TO DO: Badge will work once main repository ci.yml is renamed to ci-team-uhp -->
