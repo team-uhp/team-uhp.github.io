@@ -130,7 +130,7 @@ TeamUHp! is designed, implemented, and maintained by Jayden Francoise, Matthew M
     <img src="images\members\ackerrs.jpg" alt="Raymond Acker">
     <h3>Raymond Acker</h3>
     <a href="https://ackerrs.github.io/">ackerrs.github.io</a>
-    <p>Computer Science Student at University of Hawaii at Manoa</p>
+    <p>Computer Science major at UH Manoa, rock climber, and avid reader</p>
   </div>
 
   <div class="member">
