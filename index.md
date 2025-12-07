@@ -9,6 +9,7 @@
 - [Continuous Integration](#continuous-integration)
 - [Development History](#development-history)
 - [Team](#team)
+- [Contact Us](#contact-us)
 
 ## Overview
 
@@ -147,3 +148,6 @@ TeamUHp! is designed, implemented, and maintained by Jayden Francoise, Matthew M
     <p>Computer Science Student at University of Hawaii at Manoa</p>
   </div>
 </div>
+
+## Contact Us
+The team email is team.uhp.automation@gmail.com. Alternate forms of contacting members are available on our individual github.io profiles above.
