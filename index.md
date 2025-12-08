@@ -10,6 +10,7 @@
 - [Continuous Integration](#continuous-integration)
 - [Development History](#development-history)
 - [Team](#team)
+- [Contact Us](#contact-us)
 
 ## Overview
 
@@ -30,11 +31,11 @@ The landing page is presented to users when they visit the website. Clicking any
 <img class="padded" src="images\pages\landing-page.png">
 
 **Sign In Page** <br>
-The sign in page allows users to sign in and provides links for creating a new account, requesting a link to reset forgotten password.
+The sign in page allows users to sign in and provides links for creating a new account or requesting a link to reset forgotten password.
 <img class="padded" src="images\pages\viewer-sign-in-page.png">
 
 **Forgot Password Page** <br>
-If a user has forgotten their password, they may reset it by inputting the email associated with their accuont, and receive an email from TeamUHp automation (team.uhp.automation@gmail.com) to reset the password.
+If a user has forgotten their password, they may reset it by inputting the email associated with their account, and receive an email from TeamUHp automation (team.uhp.automation@gmail.com) to reset the password.
 <img class="padded" src="images\pages\forgot-password-page.png">
 
 **Sign Up Page** <br>
@@ -133,14 +134,15 @@ Milestone 2 was managed using [TeamUHp GitHub Project Board M2:](https://github.
 <!-- TO DO: Update Milestone 2 to completed preview of Project @M2 by deadline  -->
 
 **Milestone 3: Improved Functionality & Supplementary Features** <br>
-The goal of Milestone 3 is to 
+The goal of Milestone 3 is to complete near-final functionality of critical features, and complete implementation of supplementary features that were added in design. 
 <!-- TO DO: Include milestone 3 description -->
 
-Milestone 3 was managed using [TeamUHp GitHub Project Board M2:](https://github.com/orgs/team-uhp/projects/3)
+Milestone 3 is managed using [TeamUHp GitHub Project Board M3:](https://github.com/orgs/team-uhp/projects/6)
 
-<img class="padded" src="images/milestones/m2.png" alt="Milestone 2">
-<p style="text-align: center; font-style: italic;">Current milestone in progress.</p>
+<img class="padded" src="images/milestones/m3.png" alt="Milestone 3">
 <p style="text-align: center; font-style: italic;">Next milestone to follow.</p>
+<!-- TO DO: Add milestone 3 image -->
+
 
 ## Team
 [Team Contract](https://docs.google.com/document/d/1vcm45B1ehz_Joi1jSSsUXPrAqlw8uORYBjaiFehP7uw/edit?usp=sharing)<br>
@@ -165,7 +167,7 @@ TeamUHp! is designed, implemented, and maintained by Jayden Francoise, Matthew M
     <img src="images\members\ackerrs.jpg" alt="Raymond Acker">
     <h3>Raymond Acker</h3>
     <a href="https://ackerrs.github.io/">ackerrs.github.io</a>
-    <p>Computer Science Student at University of Hawaii at Manoa</p>
+    <p>Computer Science major at UH Manoa, rock climber, and avid reader</p>
   </div>
 
   <div class="member">
@@ -182,3 +184,6 @@ TeamUHp! is designed, implemented, and maintained by Jayden Francoise, Matthew M
     <p>Computer Science Student at University of Hawaii at Manoa</p>
   </div>
 </div>
+
+## Contact Us
+The team email is team.uhp.automation@gmail.com. Alternate forms of contacting members are available on our individual github.io profiles above.
