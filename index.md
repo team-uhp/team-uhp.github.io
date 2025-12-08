@@ -91,11 +91,11 @@ make sure to comment vercel directUrl
 
 <code>
 datasource db {<br>
-  provider = "postgresql"<br>
-  // for local development<br>
-  url       = env("DATABASE_URL")<br>
-  // for Vercel, uncomment<br>
-  // directUrl = env("POSTGRES_URL")  <--- Comment this to run locally at localhost:3000<br>
+&nbsp;&nbsp;provider = "postgresql"<br>
+&nbsp;&nbsp;// for local development<br>
+&nbsp;&nbsp;url       = env("DATABASE_URL")<br>
+&nbsp;&nbsp;// for Vercel, uncomment<br>
+&nbsp;&nbsp;// directUrl = env("POSTGRES_URL")  <--- Comment this to run locally at localhost:3000<br>
 }
 </code>
 
