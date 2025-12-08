@@ -64,7 +64,7 @@ End users looking for projects will view a project page, then click on a specifi
 The add opening page is used for project posters to open positions for members they seek to recruit. They can specify the title for the position, add a description for project tasks, select specific skills needed for the position, and schedule the dates for which the project is open to contributors:
 <img class="padded" src="images\pages\add-opening-page.png">
 
-## Developer Guide ## <br>
+## Developer Guide
 First, install a code editor
 
 Second, go to the Team-UHp page, and select the "use this template" button to create a repository with Team-UHp as a template.
