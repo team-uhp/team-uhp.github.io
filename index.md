@@ -90,12 +90,12 @@ For your .env file:
 make sure to comment vercel directUrl 
 
 <code>
-datasource db {
-  provider = "postgresql"
-  // for local development
-  url       = env("DATABASE_URL")
-  // for Vercel, uncomment
-  // directUrl = env("POSTGRES_URL")  <--- Comment this to run locally at localhost:3000 
+datasource db {<br>
+  provider = "postgresql"<br>
+  // for local development<br>
+  url       = env("DATABASE_URL")<br>
+  // for Vercel, uncomment<br>
+  // directUrl = env("POSTGRES_URL")  <--- Comment this to run locally at localhost:3000<br>
 }
 </code>
 
