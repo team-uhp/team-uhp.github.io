@@ -105,23 +105,24 @@ This guide is not intended for professional applications. This guide is accurate
 
 <img class="padded" src="images/gmail-how-to/01.png" alt="Gmail Setup 1">
 
-0. Create a Gmail account with the name you want your app to be sending messages under. It is strongly recommended that this be professional, related to your app or company name, and include "noreply" in some form if you are not going to check the inbox for messages. The account must also have 2-Step Verification enabled.
-1. Visit [accounts.google.com](accounts.google.com)
-2. Click Go To Google Account.
+0\\. Create a Gmail account with the name you want your app to be sending messages under. It is strongly recommended that this be professional, related to your app or company name, and include "noreply" in some form if you are not going to check the inbox for messages. The account must also have 2-Step Verification enabled.
+1\\. Visit [accounts.google.com](accounts.google.com)
+2\\. Click Go To Google Account.
 
 <img class="padded" src="images/gmail-how-to/02.png" alt="Gmail Setup 2">
 
-3. Click Security & sign-in.
-4. Type "app password" in the search bar.
-5. Click App Passwords in the dropdown.
+
+3\\. Click Security & sign-in.
+4\\. Type "app password" in the search bar.
+5\\. Click App Passwords in the dropdown.
 
 <img class="padded" src="images/gmail-how-to/03.png" alt="Gmail Setup 3">
 
-6. Type the nickname you want the password to be referred to as. This is not used anywhere except this list, so ensure the name will remind you what app it is for.
+6\\. Type the nickname you want the password to be referred to as. This is not used anywhere except this list, so ensure the name will remind you what app it is for.
 
 <img class="padded" src="images/gmail-how-to/04.png" alt="Gmail Setup 4">
 
-7. Save this password. You will not be able to access it again once you close the popup.
+7\\. Save this password. You will not be able to access it again once you close the popup.
 
 8a. If you are running the app locally: in your .env file, type the following information (replace with your account information):
 
