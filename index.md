@@ -65,17 +65,40 @@ The add opening page is used for project posters to open positions for members t
 <img class="padded" src="images\pages\add-opening-page.png">
 
 ## Developer Guide
-First, install a code editor
+Pre-Reqs
 
-Second, go to the Team-UHp page, and select the "use this template" button to create a repository with Team-UHp as a template.
+* install the latest [node.js](https://nodejs.org/en)
+* install the latest [postgreSQL](https://www.postgresql.org/download/)
 
-Third, upon opening your new program, cd into the Team-UHp/app directory, and install libraries by typing into the terminal:
+First, install a code editor such as VS Code.
+
+Second, go to the Team-UHp github repository and clone the repository to your computer.
+
+Third, upon opening your new program, cd into the Team-UHp directory, and install the libraries by typing into the terminal:
 
 <code>$ npm install</code>
 
-Fourth, run the system with the command:
+Fourth, make a copy of the sample.env and rename it to .env. Change the DATABASE_URL user:password to your postgres username and password.
 
-<code>npx prisma migrate reset</code>
+Fifth, create/migrate your local prisma database using this command:
+
+<code>npx prisma migrate dev</code>
+
+Sixth, seed the database with default test data:
+
+<code>npx prisma db seed<code>
+
+The test data can be found in config/settings.development.json. Feel free to add or remove test data
+
+The prisma client should have already been generated but just in case, run:
+
+<code>npx prisma generate<code>
+
+to generate your prisma client.
+
+Fifth, run the system with the command:
+
+<code>npm run dev</code>
 
 If successful, you should see the application appear at http://localhost.3000
 
@@ -85,9 +108,11 @@ To launch the prisma database editor on your web browser, run the command:
 
 <code>npx prisma studio</code>
 
-For your .env file:
+or install [pgAdmin4](https://www.pgadmin.org/download/)
 
-make sure to comment vercel directUrl 
+
+If you want to use a remote hosting service such as vercel for your database, in your schema.prisma, uncomment the directURL line
+and update your .env file with the remote database links.
 
 <code>
 datasource db {<br>
@@ -95,7 +120,7 @@ datasource db {<br>
 &nbsp;&nbsp;// for local development<br>
 &nbsp;&nbsp;url       = env("DATABASE_URL")<br>
 &nbsp;&nbsp;// for Vercel, uncomment<br>
-&nbsp;&nbsp;// directUrl = env("POSTGRES_URL")  <--- Comment this to run locally at localhost:3000<br>
+&nbsp;&nbsp;// directUrl = env("POSTGRES_URL")  <--- uncomment this to run on your remote DB<br>
 }
 </code>
 
