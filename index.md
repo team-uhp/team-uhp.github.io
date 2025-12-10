@@ -99,6 +99,40 @@ datasource db {<br>
 }
 </code>
 
+**Gmail Automation Setup** <br>
+
+This guide is not intended for professional applications. This guide is accurate as of November 30, 2025. Gmail may not permit extensive commercial use of its services without paying for the right to do so. This method is not nearly as secure as using OAuth 2.0 and google's API. Caveat emptor.
+
+<img class="padded" src="images/gmail-how-to/01.png" alt="Gmail Setup 1">
+
+0. Create a Gmail account with the name you want your app to be sending messages under. It is strongly recommended that this be professional, related to your app or company name, and include "noreply" in some form if you are not going to check the inbox for messages. The account must also have 2-Step Verification enabled.
+1. Visit [accounts.google.com](accounts.google.com)
+2. Click Go To Google Account.
+
+<img class="padded" src="images/gmail-how-to/02.png" alt="Gmail Setup 2">
+
+3. Click Security & sign-in.
+4. Type "app password" in the search bar.
+5. Click App Passwords in the dropdown.
+
+<img class="padded" src="images/gmail-how-to/03.png" alt="Gmail Setup 3">
+
+6. Type the nickname you want the password to be referred to as. This is not used anywhere except this list, so ensure the name will remind you what app it is for.
+
+<img class="padded" src="images/gmail-how-to/04.png" alt="Gmail Setup 4">
+
+7. Save this password. You will not be able to access it again once you close the popup.
+
+8a. If you are running the app locally: in your .env file, type the following information (replace with your account information):
+
+    #EMAIL_HOST=smtp.gmail.com
+    GMAIL_USER=team.uhp.automation@gmail.com
+    GMAIL_APP_PASSWORD=prdwvhtwzesvevtj
+    
+Note that the app password you generated earlier has no spaces.
+
+8b. If you are running the app on Vercel: Go to your app, Settings, Environment Variables, and add your GMAIL_USER and GMAIL_APP_PASSWORD variables to the list.
+
 ## Continuous Integration
 ![ci-badge](https://github.com/team-uhp/team-uhp/workflows/ci-team-uhp/badge.svg)
 <!-- TO DO: Badge will work once main repository ci.yml is renamed to ci-team-uhp -->
