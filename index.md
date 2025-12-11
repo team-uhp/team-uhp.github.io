@@ -32,37 +32,56 @@ The landing page is presented to users when they visit the website. Clicking any
 
 **Sign In Page** <br>
 The sign in page allows users to sign in and provides links for creating a new account or requesting a link to reset forgotten password.
-<img class="padded" src="images\pages\viewer-sign-in-page.png">
+<img class="padded" src="images\pages\sign-in.png">
 
 **Forgot Password Page** <br>
 If a user has forgotten their password, they may reset it by inputting the email associated with their account, and receive an email from TeamUHp automation (team.uhp.automation@gmail.com) to reset the password.
-<img class="padded" src="images\pages\forgot-password-page.png">
+<img class="padded" src="images\pages\forgot-password.png">
+
+**Forgot Password Page** <br>
+Similarly, if a user has forgotten their username, they may receive it by inputting the email associated with their account, and receive an email from TeamUHp automation (team.uhp.automation@gmail.com).
+<img class="padded" src="images\pages\forgot-username.png">
 
 **Sign Up Page** <br>
 If a user has no yet created an account, they may sign up using UH email address. After filling in the necessary account information, an automated email is sent to verify the account. The user must check their email to follow the link to verification. All automation links are sent from the team's automation contact: team.uhp.automation@gmail.com.
-<img class="padded" src="images\pages\viewer-sign-up-page.png">
+<img class="padded" src="images\pages\sign-up.png">
 
 **List Projects Page** <br>
 <!-- TO DO: Include filtering (by due date) capabilities mentioned in this paragraph -->
 The project list provides clickable summaries for all active projects. The list is sorted by number of skills that the user and each project have in common.
 <img class="padded" src="images\pages\project-list.png">
 
-
 **Add Projects Page**
 Clicking on the "Add Project" button from the Project List page, users can post a project by filling in Ttitle, description, and due date of the project. Line breaks in the description input are preserved when displaying the description on the project page. 
-<img class="padded" src="images\pages\add-project-page.png">
+<img class="padded" src="images\pages\add-project.jpg">
 
 **Project Page** <br>
 Each individual project page displays the project's details. The project page provides the project image/banner, title, description, project members, openings on the project, and the skills sought across all openings. Clicking on openings will take users to the opening page. If no image is provided during the Project's Creation, a default banner is displayed.<!-- "Default Banner" subject to change after photo sharing solution --> When logged in as a project's admin, the subsequent button "Recruit for Opening" is visible:
 <img class="padded" src="images\pages\project-page.png">
 
-**Opening Page** <br>
-End users looking for projects will view a project page, then click on a specific position opening. The specified posiiton is detailed on its own page and provides the title, description, and skills sought of the project opening. Users can click the link to apply for the position.
-<img class="padded" src="images\pages\opening-page.png">
-
 **Add Opening Page** <br>
 The add opening page is used for project posters to open positions for members they seek to recruit. They can specify the title for the position, add a description for project tasks, select specific skills needed for the position, and schedule the dates for which the project is open to contributors:
-<img class="padded" src="images\pages\add-opening-page.png">
+<img class="padded" src="images\pages\add-opening.png">
+
+**Opening Page** <br>
+End users looking for projects will view a project page, then click on a specific position opening. The specified posiiton is detailed on its own page and provides the title, description, and skills sought of the project opening. Users can click the link to apply for the position. If a user has already applied to the opening, the button “Apply for this opening” will instead by “View My Application." If logged in as the original poster of a project, you can see users who have applied for the position. As the project’s poster, clicking on the user will open their application in an application page.
+<img class="padded" src="images\pages\opening-page.png">
+
+**Edit Opening Page** <br>
+A project admin can edit an opening by clicking "Edit Opening" on the specified opening page. Here, fields can be rewritten, reselected, or deleted. Additionally, extra skills can be added via the drop down by field, and combined in summary.
+<img class="padded" src="images\pages\edit-opening.png">
+
+**Apply for Opening Page** <br>
+After clicking apply for opening, a form with a text area will be displayed. Here the user can submit their application to the project's poster for that specific project position.
+<img class="padded" src="images\pages\apply-opening.png">
+
+**Application Page** <br>
+Application admins can review the application, choose to accept or delete the application, here in the application page. For users who submit the application, they edit or delete their application at this page. Project posters are not notified if or when an application is edited. 
+<img class="padded" src="images\pages\application-admin.png">
+
+**Edit Project Page** <br>
+A project admin can edit a project by clicking "Edit Project" on the specified project page. Here, fields can be rewritten, reselected, or deleted. Project admins can also add or remove members or admins from the project.
+<img class="padded" src="images\pages\edit-project.png">
 
 ## Developer Guide
 Pre-Reqs
