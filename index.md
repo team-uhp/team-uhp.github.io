@@ -83,6 +83,18 @@ Application admins can review the application, choose to accept or delete the ap
 A project admin can edit a project by clicking "Edit Project" on the specified project page. Here, fields can be rewritten, reselected, or deleted. Project admins can also add or remove members or admins from the project.
 <img class="padded" src="images\pages\edit-project.png">
 
+**User Profile Page** <br>
+In the user profile page, a user’s contributed project previews are displayed, as well as the user’s name, username, email address, and skills. When viewing other users, you may add them by clicking the button “Add Contact” and it will save the user to your own contacts page. If the user is already added to your contacts, the button will be filled and replaced with “Remove Contact.”
+<img class="padded" src="images\pages\user-profile.png">
+
+**Edit Profile** <br>
+In the edit profile page, you may edit your information involving your name, profile picture, phone number, and skills via field of study selection.
+<img class="padded" src="images\pages\edit-profile.png">
+
+**Contacts Page** <br>
+Contacts that you saved when viewing profiles will be collected and displayed here in the contacts page. If you have not added any contacts, no profile cards will be displayed. Note that contacts are added one-side. Users you save will not be notified that they have been added to your contacts list. 
+<img class="padded" src="images\pages\contacts.png">
+
 ## Developer Guide
 Pre-Reqs
 
