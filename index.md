@@ -201,7 +201,6 @@ Note that the app password you generated earlier has no spaces.
 
 ## Continuous Integration
 ![ci-badge](https://github.com/team-uhp/team-uhp/workflows/ci-team-uhp/badge.svg)
-<!-- TO DO: Badge will work once main repository ci.yml is renamed to ci-team-uhp -->
 
 TeamUHp implements continuous integration using GitHub Actions, such that all commits into the main branch trigger a build of the system and the running of ESLint checks and all Playwright tests. Results of all recent workflows are viewable at https://github.com/team-uhp/team-uhp/actions. 
 
@@ -237,6 +236,9 @@ The goal of Milestone 3 is to complete final functionality of critical features,
 Milestone 3 is managed using [TeamUHp GitHub Project Board M3:](https://github.com/orgs/team-uhp/projects/6)
 
 <img class="padded" src="images/milestones/m3.png" alt="Milestone 3">
+
+## Community Feedback
+<p style="text-align: center; font-style: italic;">Community Review Currently in Progress</p>
 
 
 ## Team
