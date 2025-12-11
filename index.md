@@ -9,6 +9,7 @@
 - [Developer Guide](#developer-guide)
 - [Continuous Integration](#continuous-integration)
 - [Development History](#development-history)
+- [Community Feedback](#community-feedback)
 - [Team](#team)
 - [Contact Us](#contact-us)
 
@@ -26,7 +27,6 @@ The TeamUHp! web application is deployed through Vercel cloud platform and hoste
 This section provides a walkthrough of the TeamUHp! user interface and its capabilities.
 
 **Landing Page** <br>
-<!-- TO DO: Update "Helpful Tools page" as described in this paragraph -->
 The landing page is presented to users when they visit the website. Clicking any of the internal page links without being signed in redirects the user to the Sign In page. Clicking the Helpful Tools link will take the user to a collection of external site links Team UHp thinks you might find helpful. Clicking the About Us or Resources links in the footer will redirect the user to those pages without requiring signing in.
 <img class="padded" src="images\pages\landing-page.png">
 
@@ -47,8 +47,7 @@ If a user has no yet created an account, they may sign up using UH email address
 <img class="padded" src="images\pages\sign-up.png">
 
 **List Projects Page** <br>
-<!-- TO DO: Include filtering (by due date) capabilities mentioned in this paragraph -->
-The project list provides clickable summaries for all active projects. The list is sorted by number of skills that the user and each project have in common.
+The project list provides clickable summaries for all active projects. The list is sorted by number of skills that the user and each project have in common. Projects can be searched by title dictionary matches or by skill select filters. Skill select filters will show results for all projects containing any of the selected skills in the filter.
 <img class="padded" src="images\pages\project-list.png">
 
 **Add Projects Page**
@@ -56,7 +55,7 @@ Clicking on the "Add Project" button from the Project List page, users can post 
 <img class="padded" src="images\pages\add-project.jpg">
 
 **Project Page** <br>
-Each individual project page displays the project's details. The project page provides the project image/banner, title, description, project members, openings on the project, and the skills sought across all openings. Clicking on openings will take users to the opening page. If no image is provided during the Project's Creation, a default banner is displayed.<!-- "Default Banner" subject to change after photo sharing solution --> When logged in as a project's admin, the subsequent button "Recruit for Opening" is visible:
+Each individual project page displays the project's details. The project page provides the project image/banner, title, description, project members, openings on the project, and the skills sought across all openings. Clicking on openings will take users to the opening page. When logged in as a project's admin, the subsequent button "Recruit for Opening" is visible. Users can bookmark this project and it will appear in their “Saved Projects” filter toggle at the projects list page.
 <img class="padded" src="images\pages\project-page.png">
 
 **Add Opening Page** <br>
