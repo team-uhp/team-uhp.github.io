@@ -100,7 +100,7 @@ The helpful tools page is a composite of tools we think you’ll find useful in 
 
 
 ## Developer Guide
-Pre-Reqs
+Pre-Requisites
 
 * install the latest [node.js](https://nodejs.org/en)
 * install the latest [postgreSQL](https://www.postgresql.org/download/)
