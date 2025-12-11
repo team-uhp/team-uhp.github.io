@@ -95,6 +95,11 @@ In the edit profile page, you may edit your information involving your name, pro
 Contacts that you saved when viewing profiles will be collected and displayed here in the contacts page. If you have not added any contacts, no profile cards will be displayed. Note that contacts are added one-side. Users you save will not be notified that they have been added to your contacts list. 
 <img class="padded" src="images\pages\contacts.png">
 
+**Helpful Tools Page** <br>
+The helpful tools page is a composite of tools we think you’ll find useful in your collaboration with other eager technical enthusiasts and student groups. 
+<img class="padded" src="images\pages\helpful-tools.png">
+
+
 ## Developer Guide
 Pre-Reqs
 
