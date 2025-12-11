@@ -45,7 +45,7 @@ If a user has no yet created an account, they may sign up using UH email address
 **List Projects Page** <br>
 <!-- TO DO: Include filtering (by due date) capabilities mentioned in this paragraph -->
 The project list provides clickable summaries for all active projects. The list is sorted by number of skills that the user and each project have in common.
-<img class="padded" src="images\pages\project-list-page.png">
+<img class="padded" src="images\pages\project-list.png">
 
 
 **Add Projects Page**
@@ -54,7 +54,7 @@ Clicking on the "Add Project" button from the Project List page, users can post 
 
 **Project Page** <br>
 Each individual project page displays the project's details. The project page provides the project image/banner, title, description, project members, openings on the project, and the skills sought across all openings. Clicking on openings will take users to the opening page. If no image is provided during the Project's Creation, a default banner is displayed.<!-- "Default Banner" subject to change after photo sharing solution --> When logged in as a project's admin, the subsequent button "Recruit for Opening" is visible:
-<img class="padded" src="images\pages\owner-project-page.png">
+<img class="padded" src="images\pages\project-page.png">
 
 **Opening Page** <br>
 End users looking for projects will view a project page, then click on a specific position opening. The specified posiiton is detailed on its own page and provides the title, description, and skills sought of the project opening. Users can click the link to apply for the position.
