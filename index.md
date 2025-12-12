@@ -238,8 +238,6 @@ Milestone 3 is managed using [TeamUHp GitHub Project Board M3:](https://github.c
 <img class="padded" src="images/milestones/m3.png" alt="Milestone 3">
 
 ## Community Feedback
-<p style="text-align: center; font-style: italic;">Community Review Currently in Progress</p>
-
 We asked five community members to review the application and provide their feedback. Their insights are summarized below.
 
 **UI and Ease of Use** <br>
