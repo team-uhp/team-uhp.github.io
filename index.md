@@ -240,6 +240,23 @@ Milestone 3 is managed using [TeamUHp GitHub Project Board M3:](https://github.c
 ## Community Feedback
 <p style="text-align: center; font-style: italic;">Community Review Currently in Progress</p>
 
+We asked five community members to review the application and provide their feedback. Their insights are summarized below.
+
+**UI and Ease of Use** <br>
+Overall, the community members agreed that the application is streamlined and user-friendly, both on PC and mobile platforms. All tested functionality worked without errors. Users commented that the application shows clear benefits for students seeking to apply their skills collaboratively. The interface was generally praised for being intuitive and easy to navigate.
+
+**Opportunities for Imporvement** <br>
+Several suggestions were made to further improve usability and presentation:
+- Allow project admins to crop or square images, ensuring they appear uniform when previewed as banners on the project list page.
+- Limit the display of skills to the top 10 in the project list to reduce visual clutter.
+- Order projects by upcoming due dates or relevance to the user’s skills, making it easier for users to find opportunities that match their interests.
+- Introduce trackers for ongoing projects and submitted applications to help users monitor their progress.
+
+**App Performance** <br>
+Some users reported minor delays when loading pages with large amounts of data, such as refreshing the project page. Additionally, automated notifications sometimes took a few minutes to arrive, which could affect timely communication.
+
+**Bugs and Anomalies** <br>
+One user experienced duplicate entries when interacting with clickable features rapidly, and suggested adding a short cooldown for interactive elements (buttons, links, submissions) to prevent accidental duplication, especially given asynchronous cloud deployment and database fetching. 
 
 ## Team
 [Team Contract](https://docs.google.com/document/d/1vcm45B1ehz_Joi1jSSsUXPrAqlw8uORYBjaiFehP7uw/edit?usp=sharing)<br>
