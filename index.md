@@ -243,7 +243,7 @@ We asked five community members to review the application and provide their feed
 **UI and Ease of Use** <br>
 Overall, the community members agreed that the application is streamlined and user-friendly, both on PC and mobile platforms. All tested functionality worked without errors. Users commented that the application shows clear benefits for students seeking to apply their skills collaboratively. The interface was generally praised for being intuitive and easy to navigate.
 
-**Opportunities for Imporvement** <br>
+**Opportunities for Improvement** <br>
 Several suggestions were made to further improve usability and presentation:
 - Allow project admins to crop or square images, ensuring they appear uniform when previewed as banners on the project list page.
 - Limit the display of skills to the top 10 in the project list to reduce visual clutter.
